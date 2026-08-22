@@ -6,7 +6,6 @@ public final class RankedBedWars extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
     }
 
     @Override
