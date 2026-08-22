@@ -1,0 +1,6 @@
+name: RankedBedWars
+version: '0.1.0'
+main: me.tomqnto.skywarsplus.rankedbw.RankedBedWars
+api-version: '1.21'
+prefix: RankedBW
+authors: [ Tomqnto ]
